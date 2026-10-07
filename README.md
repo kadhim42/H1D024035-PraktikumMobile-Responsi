@@ -36,7 +36,6 @@ Pokédex adalah aplikasi Android untuk mencari dan melihat informasi Pokémon (t
 - **Detail Pokémon:** Klik kartu untuk membuka layar detail: gambar, nama, ID, tipe, tinggi, berat, dan enam statistik dasar dalam bentuk bar.
 
 ### 3. Struktur Direktori Proyek
-```text
 app/src/main/java/com/responsi/pokemon/
 ├── data/
 │   ├── model/        # Pokemon.kt (data class + extension function)
